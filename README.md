@@ -1,1 +1,1 @@
-# Car Log (Mobile App)
+# Simple Car Log (Mobile App)
